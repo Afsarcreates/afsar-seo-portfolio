@@ -17,7 +17,7 @@ I help businesses improve organic traffic through technical SEO, content optimiz
 - Fixed technical issues
 - Optimized product pages
 
-[View Case Study](case-studies/furniture-seo.md)
+[View Case Study](case-studies)
 
 ## Tools I Use
 - Google Search Console
